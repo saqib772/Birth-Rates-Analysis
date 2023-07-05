@@ -27,7 +27,10 @@ You can install the required dependencies by running the following command:
 pip install plotly 
 pip install statsmodels
 ```
-
+Run The code using
+```
+python -m streamlit run main.py
+```
 
 After installing the dependencies, you can execute the code.
 
@@ -41,5 +44,9 @@ The analysis generates a bar plot that represents the birth distribution by day.
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+
+https://github.com/saqib772/Birth-Rates-Analysis/assets/121972215/b8aeba72-a3a8-44fa-af8c-f4b218339c89
+
 
 
